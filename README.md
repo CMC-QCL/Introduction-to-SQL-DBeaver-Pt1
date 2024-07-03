@@ -1,1 +1,4 @@
-# Introduction-to-SQL-DBeaver-Pt1
+# Introduction-to-SQL-DBeaver
+presentation of introduction to SQL
+
+Download the repo and follow the exercises!
