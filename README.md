@@ -16,3 +16,10 @@ Use DBeaver and SQL statements to:
 - Import tables
 - Insert data into your project
 
+Pre-requisites
+Internet Use: Introductory level (search, log-in, navigation of websites, etc.)
+Local installation (if you bring your laptop): DBeaver (any version)
+Software knowledge: basic computer skills
+
+Participants
+CMC Students, Faculty and Staff
