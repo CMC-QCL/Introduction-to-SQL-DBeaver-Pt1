@@ -13,5 +13,6 @@ Through the workshop, you will learn…
 Use DBeaver and SQL statements to:
 - Create a database
 - Define table elements
-- Import tables and data into your project
+- Import tables
+- Insert data into your project
 
