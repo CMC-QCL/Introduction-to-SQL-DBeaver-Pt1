@@ -8,7 +8,7 @@ SQL is an acronym for Structured Query Language. It is a language designed to ac
 
  
 
-Through the workshop, you will learn…
+## Through the workshop, you will learn…
 
 Use DBeaver and SQL statements to:
 - Create a database
@@ -16,10 +16,10 @@ Use DBeaver and SQL statements to:
 - Import tables
 - Insert data into your project
 
-Pre-requisites
+## Pre-requisites
 Internet Use: Introductory level (search, log-in, navigation of websites, etc.)
 Local installation (if you bring your laptop): DBeaver (any version)
 Software knowledge: basic computer skills
 
-Participants
+## Participants
 CMC Students, Faculty and Staff
